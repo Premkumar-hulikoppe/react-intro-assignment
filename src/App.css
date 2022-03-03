@@ -1,0 +1,32 @@
+.App {
+  width: 400px;
+  margin: auto;
+  font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+.os{
+  margin: 25px auto;
+}
+.os ul {
+  width: 150px;
+  margin: auto;
+}
+.owners{
+
+  margin: 25px auto;
+}
+.owners ul {
+  list-style-type: square;
+  margin: auto;
+  width: 150px;
+}
+
+.owners ul li:nth-child(3){
+  list-style: circle;
+}
+
+.owners ul li:nth-child(4){
+  list-style: disc;
+}
+
+
+
